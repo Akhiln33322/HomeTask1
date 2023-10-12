@@ -2,12 +2,12 @@ public class Problem1 {
 
 	public static void main(String[] args) {
 		
-		//given
-		double eartDiameter = 7600; // measurement in miles
-		double sunDiameter = 865000; // measurement in miles
+	//given
+	double eartDiameter = 7600; // measurement in miles
+	double sunDiameter = 865000; // measurement in miles
         
-		//radius calculation
-		double earthRadius = eartDiameter/2;
+	//radius calculation
+	double earthRadius = eartDiameter/2;
         double sunRadius = sunDiameter/2;
 
         // volume of sun and earth using the formula 4 pi r^3/3 where r is the radius
