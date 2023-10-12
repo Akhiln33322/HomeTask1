@@ -1,5 +1,5 @@
 # HomeTask1
-# click on code of not visible
+# click on view code if not visible
 HomeTask1
 
 Matriculation Number: 7219528
